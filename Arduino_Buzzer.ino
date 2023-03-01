@@ -110,6 +110,3 @@ void loop() // This loop repeats every 10 seconds
   last_feet = feet; // save measurement for next loop in case of a bad/noisy read
 //
 }
-
-
-//MUFQMVEze1N5NFRfMEYxQUdfcm90MTN9Cg==
